@@ -27,3 +27,5 @@ Last visited         URL
 
 Browser history search complated at: 2023-10-18 12:28:17.335597
 ```
+
+Blog post: [Edge history forensics](https://safecontrols.blog/2023/10/18/edge-browser-history-forensics/)
